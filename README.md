@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+<p align='çenter'>
+<img src='https://github-readme-stats.vercel.app/api?username=AvvariSreedhar&count_private=true&show_icons=true&theme=algolia'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AvvariSreedhar&layout=compact&theme=algolia'
+</p>
